@@ -5,6 +5,7 @@
 ██╔═██╗ ██╔══██║   ██║      ██║   ██╔══██║██╔═══╝ ██╔══╝  ██║  ██║██╔══██║");
 ██║  ██╗██║  ██║   ██║      ██║   ██║  ██║██║     ███████╗██████╔╝██║  ██║");
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝");
+
 ![Version](https://img.shields.io/badge/release-1.0-yellow.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
