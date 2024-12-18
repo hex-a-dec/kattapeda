@@ -15,7 +15,7 @@ The dump file created, can be exploited offline with Mimikatz or Pypykatz.
 >[!CAUTION]
 > The dump will fail if the memory is LSA protected. Consequently, the created file will be empty. Check the prerequisite before running kattapeda.
 
-#### USAGE
+### [+] USAGE
 - compile the .cs source code
 - on target, execute the program:
 `.\kattax64.exe c:\windows\tasks\mini.dmp`
