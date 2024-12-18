@@ -6,7 +6,7 @@
 ██║  ██╗██║  ██║   ██║      ██║   ██║  ██║██║     ███████╗██████╔╝██║  ██║");
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝");
 
-![Version](https://img.shields.io/badge/release-1.0-yellow.svg)
+![Version](https://img.shields.io/badge/release-N/A-yellow.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 Kattapeda is a very simple LSASS memory dump tool in C# based on Win32 `MiniDumpWriteDump` API. 
